@@ -1,0 +1,6 @@
+ this to explain what is feture command
+G.A.B 14.11.1.
+G defines group name ,group number only if u changes the group
+A defines artifact name , it change only features change 
+B defnes bug name/, only if bug detects
+
